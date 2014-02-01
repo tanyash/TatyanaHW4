@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1942836031">
+    <data-source source="LOCAL" name="Derby - vac" uuid="3ef27c61-4357-4c1e-85ce-a2a94f2f3ce1">
+      <driver-ref>derby.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.derby.jdbc.EmbeddedDriver</jdbc-driver>
+      <jdbc-url>jdbc:derby:$PROJECT_DIR$/../db/vac</jdbc-url>
+      <libraries>
+        <library>
+          <url>file:///opt/java/jdk1.7.0_51/db/lib/derby.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

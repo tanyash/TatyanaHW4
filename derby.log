@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jan 30 20:08:33 EET 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0143-e456-8a31-0000031210e0 
+on database directory /home/tanya/IdeaProjects/db/vac  with class loader sun.misc.Launcher$AppClassLoader@5a74b10b 
+Loaded from file:/opt/java/jdk1.7.0_51/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_51-b13
+user.dir=/home/tanya/IdeaProjects/TatyanaHW4
+os.name=Linux
+os.arch=amd64
+os.version=3.11.0-12-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
